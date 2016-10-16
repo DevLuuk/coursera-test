@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #7FFFD4;
+  border-radius: 0; 
+  border: 0;
+}
+.nav > li {
+	border-bottom: 1px solid #666;
+    text-align: center;
+}
+.menu-item-details {
+  font-size: 20px;
+  background-color: #F0F8FF;
+  color: black;
+}
+#our-menu {	
+	font-family: sans-serif;
+	font-weight: bold;
+}
+h2.text-center {
+	color: black;
+	
+}
+h1.text-center {
+	color: black;
+
+}
+.content{
+    padding: 10px;
+}
+
+ul.nav{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+/* END HEADER */
+
